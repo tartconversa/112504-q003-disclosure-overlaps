@@ -1,0 +1,10 @@
+row,period,version,provider,zone,group,activity,unit,low,high
+R1,Q1,v1,A,Z1,all,course,people,36,36
+R2,Q1,v1,B,Z1,all,sport,people,20,22
+R3,Q1,v1,A,Z1,small,course,people,2,4
+R4,Q1,v1,B,Z2,other,sport,visits,12,12
+R5,Q2,v1,A,Z1,all,course,people,41,41
+R5,Q2,v2,A,Z1,all,course,people,38,38
+R6,Q2,v1,B,Z3,all,sport,people,31,34
+R7,Q2,v1,A,Z1,small,course,people,5,6
+R8,Q2,v1,A,Z1,other,course,people,33,34

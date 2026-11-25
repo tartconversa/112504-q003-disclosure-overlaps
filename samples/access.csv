@@ -1,0 +1,4 @@
+group,can_read,min_count,min_uncertainty
+public,public,5,4
+partners,partners|public,5,4
+board,board|partners|public,0,0

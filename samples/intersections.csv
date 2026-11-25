@@ -1,0 +1,5 @@
+fact,row_a,row_b,low,high,revision
+O1,R1,R2,12,16,v1
+O2,R5,R6,17,22,v1
+O2,R5,R6,20,22,v2
+O3,R5,R7,5,6,v1

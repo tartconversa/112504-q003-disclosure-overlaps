@@ -1,0 +1,5 @@
+release,period,access_group,cell,value_low,value_high,approved_at
+P1,Q1,public,all_course,36,36,2026-04-15
+P1,Q1,public,other_course,32,34,2026-04-15
+P2,Q2,partners,all_course,41,41,2026-07-12
+P3,Q1,board,small_course,2,4,2026-04-12

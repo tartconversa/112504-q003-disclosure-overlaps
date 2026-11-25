@@ -1,0 +1,6 @@
+request,access_group,period,cell,priority,requested_on
+Q1,public,Q2,all_course,mandatory,2026-07-18
+Q2,public,Q2,other_course,preferred,2026-07-18
+Q3,partners,Q2,other_course,mandatory,2026-07-20
+Q4,partners,Q2,small_course,preferred,2026-07-20
+Q5,public,Q2,sports_union,preferred,2026-07-20

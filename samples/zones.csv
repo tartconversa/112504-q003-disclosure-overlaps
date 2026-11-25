@@ -1,0 +1,5 @@
+zone,frame,previous,effective,kind
+Z1,old_a,,Q1,original
+Z2,old_b,,Q1,original
+Z3,new_b,Z2,Q2,prospective
+Z4,new_a,Z1,Q2,restatement
